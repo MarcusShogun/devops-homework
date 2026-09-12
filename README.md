@@ -1,2 +1,2 @@
 # devops-homework
-Homework for corses DevOps and Cybersecurity 
+Homework for courses DevOps and Cybersecurity 
